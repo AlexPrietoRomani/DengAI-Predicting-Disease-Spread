@@ -29,12 +29,18 @@ Este proyecto se basa en la competencia **DengAI: Predicting Disease Spread** de
 DengAI-Predicting-Disease-Spread/
 │
 ├── Actividad 1/
-│   ├── (Notebooks y scripts para análisis exploratorio y primeros modelos)
-│
+│   ├── AlexAnthonyPrietoRomani_Practica 1.ipynb                 # Análisis de caracteristicas para el sigueinte punto de la actividad 2
+│   ├── data/                                                    # Carpeta de datos
+│         ├── dengue_features_train.csv                         
+│         ├──   ......
 ├── Actividad 2/
-│   ├── (Notebooks y scripts para optimización y mejoras del modelo)
-│
-└── README.md
+│   ├── 07MBID AlexAnthonyPrietoRomani - Práctica 2.ipynb        # Modelos avanzados y optimización
+│   ├── data/                                                    # Carpeta de datos
+│         ├──   ......
+├── README.md                                                    # Descripción general del proyecto
+├── requirements.txt                                             # Librerías necesarias para correr el proyecto
+└── .gitignore                                                   # Archivos y carpetas ignorados por Git
+
 ```
 
 ## Tecnologías y Herramientas
